@@ -1,0 +1,23 @@
+{
+  "name": "qrcodejs-new",
+  "version": "0.0.1",
+  "description": "qrcode",
+  "main": "qrcode.js",
+  "scripts": {
+    "build": "uglifyjs qrcode.js -o qrcode.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeyongTsai/qrcodejs.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "tsai.zeyong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeyongTsai/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/zeyongTsai/qrcodejs#readme"
+}

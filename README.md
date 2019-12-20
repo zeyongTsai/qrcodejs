@@ -4,7 +4,7 @@
  * @Description: new readme
  -->
 # About Project
-this project was forked from "https://github.com/davidshimjs/qrcodejs",because there are some bugs and PRs not resolved in that repository, the author davidshimjs seems like forgot that project. 
+this project was forked from "https://github.com/davidshimjs/qrcodejs" , because there are some bugs and PRs not resolved in that repository, the author davidshimjs seems like forgot that project. 
 ：D
 
 # QRCode.js
