@@ -1,3 +1,12 @@
+<!--
+ * @Author: caizeyong
+ * @Date: 2019-12-20 10:06:35
+ * @Description: new readme
+ -->
+# About Project
+this project was forked from "https://github.com/davidshimjs/qrcodejs",because there are some bugs and PRs not resolved in that repository, the author davidshimjs seems like forgot that project. 
+：D
+
 # QRCode.js
 QRCode.js is javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.
 QRCode.js has no dependencies.
